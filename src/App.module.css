@@ -1,0 +1,28 @@
+.wrapper {
+    max-width: 75%;
+    background-color: #f7f7f7;
+    margin: auto;
+    font-size: 20px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    background-color: #f7f7f7;
+    font-size: 30px;
+}
+
+.header div:hover {
+    text-decoration: underline;
+}
+
+
+.header div {
+    margin-left: 20px;
+}
+
+.content {
+    margin-left: 20px;
+}

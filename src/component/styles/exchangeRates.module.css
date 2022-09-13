@@ -1,0 +1,17 @@
+.RatesItem {
+    width: 98%;
+    padding: 5px;
+    margin-right: 20px;
+    border: rgba(222, 222, 222, 0.5) solid 1px;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.header div {
+    margin-right: 10px;
+}
